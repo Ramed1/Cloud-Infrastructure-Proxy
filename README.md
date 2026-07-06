@@ -15,4 +15,6 @@ Dieses Repository enthält die Kern-Infrastruktur für das Web-Routing und die S
    cd Cloud-Infrastructure-Proxy
    ```
 
+<img width="956" height="530" alt="image" src="https://github.com/user-attachments/assets/51933c3a-f3f6-424f-8b50-0d31bbf5fa43" />
+
 <img width="958" height="535" alt="image" src="https://github.com/user-attachments/assets/4276556c-1c37-473e-a071-9b7f599e6645" />
